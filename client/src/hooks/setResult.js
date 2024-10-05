@@ -17,7 +17,7 @@ export const updateResult = (index) => async (dispatch) => {
         console.log(error)
     }
 }
-
+//git commit --amend --author="Hasan36arnob arnobhasanice@gmail.com"
 /** insert user data */
 export const usePublishResult = (resultData) => {
     const { result, username } = resultData;
